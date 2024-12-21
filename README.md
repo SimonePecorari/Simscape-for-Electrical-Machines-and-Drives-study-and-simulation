@@ -26,7 +26,7 @@ Si può osservare come il collegamento tra lo schema elettrico ed il meccanico v
 - Dominio meccanico
 - Dominio conversione
 
-<div align=‘center’>
+<div align="center">
 <img src="https://github.com/user-attachments/assets/038ba2ee-cb24-4583-b76c-fa55fd30a64d"  alt="image2" width="300">
 </div>
 
