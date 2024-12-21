@@ -1,8 +1,8 @@
 ## ANALISI MACCHINE e MOTORI
 
 SOFTWARE USED:
-[![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Simscape](https://img.shields.io/badge/Simscape-0072BD?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simscape.html)
+- [![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+- [![Simscape](https://img.shields.io/badge/Simscape-0072BD?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simscape.html)
 
 The ‘Simscape®’ product family provides models and solution technologies for simulating physical systems, rather than signal blocks or programming equations. It models electrical, mechanical, fluid and other physical systems by assembling the components into a schematic. The systems just mentioned are divided into modules.
 
