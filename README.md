@@ -149,34 +149,34 @@ Features
 </div>
 
 ## Conclusions
-Il software “Simscape®” offre una vasta gamma di applicativi per effettuare
-simulazioni di macchine e motori, variando parametri di progetto legati sia
-a grandezze di tipo elettrico come tensione, resistenze di avvolgimenti e
-correnti, sia modificando elementi di tipo meccanico e dinamico come ad
-esempio carichi applicati, rappresentati da valori di coppia.
+Simscape® software offers a wide range of applications to carry out
+simulations of machines and motors, varying design parameters related to both
+electrical quantities such as voltage, winding resistances and currents, and
+currents, as well as modifying mechanical and dynamic elements such as
+such as applied loads, represented by torque values.
 
-Nelle simulazioni si è tenuto conto dell’effettiva applicazione in casi reali,
-analizzando gli effetti elettrici e meccanici che si verificherebbero in base al
-motore più appropriato ed in base al tipo di alimentazione. In particolare,
-ponendo l’attenzione sulla tensione e sulla frequenza, sono state effettuate
-valutazioni sia con valori europei (220 [V] e 50 [Hz]) sia americani (120 [V]
+The simulations took into account the actual application in real cases,
+analysing the electrical and mechanical effects that would occur depending on the
+most appropriate motor and according to the type of power supply. In particular,
+focusing on voltage and frequency, evaluations were carried out both with
+evaluations with both European (220 [V] and 50 [Hz]) and American (120 [V]
 60 [Hz]).
 
-In conclusione, il progetto sviluppato ha tenuto conto sia di un approccio di
-tipo teorico delle macchine e dei motori impiegati, sia pratico industriale.
+In conclusion, the project developed took into account both a
+theoretical approach to the machines and motors used, as well as a practical industrial approach.
 
-Partendo dai risultati teorici si è cercato,
-attraverso la modifica di parametri di tipo elettrico e meccanico più
-significativi, di evidenziare le relazioni che sussistono tra le grandezze
-elettriche (ad esempio funzioni tra tensione e corrente) e tra parametri di tipo
-meccanico e dinamico (ad esempio le curve coppia-velocità), a meno di
-eventuali approssimazioni. Inizialmente, sono stati analizzati i parametri
-caratteristici delle macchine e dei motori ponendo l’attenzione su un
-andamento di tipo temporale e successivamente, esportando le informazioni
-più significative, si è cercato di ottenere delle correlazioni che potessero
-rappresentare simulazioni reali cercando di avvicinarsi quanto più possibile
-ad un approccio di tipo industriale analizzando le grandezze da cataloghi
-reali
+Starting from the theoretical results, an attempt was made,
+through the modification of the most significant electrical and mechanical parameters
+significant, to highlight the relationships that exist between electrical quantities
+electrical quantities (e.g. functions between voltage and current) and between mechanical and dynamic parameters
+mechanical and dynamic parameters (e.g. torque-velocity curves), without
+possible approximations. Initially, the parameters
+characteristic parameters of machines and motors were analysed by focusing on a
+time trend and then, by exporting the most significant information, an attempt was made to obtain
+the most significant information, an attempt was made to obtain correlations that could
+represent real simulations, trying to get as close as possible to an industrial approach.
+to an industrial approach by analysing quantities from real catalogues.
+real
 
 ## Member
 Davide Sasso
