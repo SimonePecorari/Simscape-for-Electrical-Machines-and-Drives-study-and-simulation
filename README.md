@@ -27,7 +27,7 @@ Si può osservare come il collegamento tra lo schema elettrico ed il meccanico v
 - Dominio conversione
 
 <div align=‘center’>
-<img src=‘https://github.com/user-attachments/assets/7bc2c98b-f33e-48cb-93b4-0fb176a5c855’ alt=‘image2’ width=‘300’>
+<img src="https://github.com/user-attachments/assets/038ba2ee-cb24-4583-b76c-fa55fd30a64d"  alt="image2" width="300">
 </div>
 
 2.6 Simscape Results Explorer
