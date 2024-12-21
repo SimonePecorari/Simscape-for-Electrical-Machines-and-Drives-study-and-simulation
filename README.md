@@ -1,4 +1,6 @@
-## ANALISI MACCHINE e MOTORI
+## Engines Analysis
+![engines](https://github.com/user-attachments/assets/af166b9a-db3a-468e-9e60-857479f364c1)
+
 
 SOFTWARE USED:
 - [![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
