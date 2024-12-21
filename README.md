@@ -1,8 +1,9 @@
-## SIMSCAPE
+## ANALISI MACCHINE e MOTORI
 
-<div align="center">
- <img src="https://github.com/user-attachments/assets/16489e5b-6b1b-49de-9429-0b8ecda59ad6" alt="image1" width="300">
- </div>
+SOFTWARE UTILIZZATO:
+
+
+
 
 Il software impiegato per la realizzazione del progetto è MATLAB/Simulink con applicativo “Simscape®”.
 Quest’ultimo è un ambiente di modellazione sviluppato da “MathWorks®” che permette di simulare sistemi fisici.
