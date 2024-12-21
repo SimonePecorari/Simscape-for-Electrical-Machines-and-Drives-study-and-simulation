@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/faultinfo_datamodel/R2021a">
+  <faultinfo.FaultContainerSet type="faultinfo.FaultContainerSet" uuid="18b95278-1725-4ef7-96b2-5393d265c77f">
+    <conditionals type="faultinfo.conditional.Conditional" uuid="314a739f-5f2f-4411-a4b5-613698e945eb">
+      <condition>x == true</condition>
+      <mustBeLogged>false</mustBeLogged>
+      <name>SampleConditional</name>
+      <resyncRefBlkID></resyncRefBlkID>
+      <resyncUUID>00000000-0000-0000-0000-000000000000</resyncUUID>
+      <symbols type="faultinfo.conditional.ExpressionSymbol" uuid="01909122-615d-4c4c-9d5f-b8f6000012e2">
+        <expression>true</expression>
+        <name>x</name>
+      </symbols>
+    </conditionals>
+    <isEnabled>false</isEnabled>
+    <lastUpdatedAt>2024-05-15T15:17:51</lastUpdatedAt>
+    <modelName>M_linear_motor</modelName>
+    <modelUUID>8b261a6d-3ddb-4138-b883-04330a0c9160</modelUUID>
+  </faultinfo.FaultContainerSet>
+</MF0>
